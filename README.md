@@ -34,6 +34,3 @@ pip install -U pip
 pip install --no-binary=h5py h5py
 pip install -r requirements.txt
 ```
-
-quirements.txt
-```
