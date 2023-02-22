@@ -3,8 +3,6 @@ Welcome to the GitHub repository for exploring the exciting field of computer vi
 
 If you want to see PyTorch in action use this link: [Pytorch](https://github.com/andrey101010/ds-computer-vision)
 
-Computer-Vision-2
-
 ## Environment 
 Use the [requirements](requirements.txt) file in this repo to create a new environment. 
 We have to install hdf5:
