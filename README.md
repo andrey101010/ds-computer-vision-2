@@ -14,7 +14,7 @@ We have to install hdf5:
 With the system setup like that, we can go and create our environment and install tensorflow
 
 ```BASH
-pyenv local 3.9.8
+pyenv local 3.10.10
 python -m venv .venv
 source .venv/bin/activate
 ```

@@ -10,4 +10,5 @@ tensorflow-macos==2.11.0
 tensorflow-metal==0.7.0
 Keras==2.11.0
 tensorflow-hub==0.12.0
-
+"the tensorflow version and other dependencies are important"
+"https://stackoverflow.com/questions/74917051/tensorflow-error-on-macbook-m1-pro-notfounderror-graph-execution-error"
